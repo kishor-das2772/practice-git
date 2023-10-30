@@ -5,3 +5,4 @@ This is third line for test1
 commit1 from feature3
 commit2 from feature3
 commit3 from feature3
+commit4 from feature4
