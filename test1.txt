@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 This line from test1
 This is second line for test1
 This is third line for test1
-=======
-This line from test1 from feature
->>>>>>> feature
+
