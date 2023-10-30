@@ -3,4 +3,4 @@ This line from test1
 This is second line for test1
 This is third line for test1
 commit1 from feature3
-
+commit2 from feature3
